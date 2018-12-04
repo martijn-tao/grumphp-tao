@@ -1,0 +1,20 @@
+{
+    "name": "martijn-tao/grumphp-tao",
+    "description": "GrumPHP Rulesets for the TAO platform",
+    "authors": [
+        {
+            "name": "Martijn Swinkels",
+            "email": "martijn@taotesting.com"
+        }
+    ],
+    "license": [
+        "GPL-3.0"
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*",
+        "friendsofphp/php-cs-fixer": "*",
+        "phpmd/phpmd": "*",
+        "phpunit/phpunit": "*"
+    }
+}
